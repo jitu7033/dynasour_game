@@ -64,7 +64,7 @@ jump_sound = pygame.mixer.Sound('audio_jump.mp3')
 
 
 
-sky_surface = pygame.image.load('').convert()
+sky_surface = pygame.image.load('sky.png').convert()
 ground_surface = pygame.image.load('ground.png').convert()
 
 # snail_obasticle
